@@ -33,7 +33,6 @@ background-color: black;
 
 .card {
 	width: 400px;
-	height: 250px;
 
 	background-color: #EEDCD1;
 	margin: 3%;
@@ -42,7 +41,7 @@ background-color: black;
 }
 
 .card img {
-	width: 200px;
+	width: 100%;
 }
 
 .card:hover{
